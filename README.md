@@ -9,7 +9,7 @@ Generates bash script to delete duplicate files from fdupes output
             which is listed first, will be saved)
       --gen-directories, -n
             generate list of directories
-      --debug               отладочное логирование
+      --debug               verbose logging
 
 1. Run fdupes with default options and save output to file
 2. Generate directories list (-n option) using fdupes output (-f)
